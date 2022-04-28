@@ -47,3 +47,6 @@ TagManager:
   - name: Forground
     uniqueID: 4207929203
     locked: 0
+  - name: Player Layer
+    uniqueID: 2450461177
+    locked: 0
