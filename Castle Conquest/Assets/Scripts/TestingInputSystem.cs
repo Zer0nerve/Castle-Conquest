@@ -9,6 +9,7 @@ public class TestingInputSystem : MonoBehaviour
     private Rigidbody2D Player;
     private PlayerInput playerInput;
     private PlayerInputActions playerInputActions;
+    [SerializeField] float runSpeed = 2f;
 
     private void Awake()
     {
@@ -28,14 +29,14 @@ public class TestingInputSystem : MonoBehaviour
     {
         
         Vector2 inputVector = playerInputActions.Player.Movement.ReadValue<Vector2>();
-        float speed = 3f;
-        Player.AddForce(new Vector3(inputVector.x, 0, inputVector.y) * speed, ForceMode2D.Force);
+        float speed = 1f;
+        Player.AddForce(new Vector3(inputVector.x, 0, inputVector.y) * speed * runSpeed, ForceMode2D.Force);
     }
     private void Movement_performed(InputAction.CallbackContext context)
     {
         Debug.Log(context);
         Vector2 inputVector = context.ReadValue<Vector2>();
-        float speed = 3f;
+        float speed = 1f;
         Player.AddForce(new Vector3(inputVector.x, 0, inputVector.y) * speed, ForceMode2D.Force);
     }
 
