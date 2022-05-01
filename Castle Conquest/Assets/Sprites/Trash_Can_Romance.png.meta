@@ -1,0 +1,780 @@
+fileFormatVersion: 2
+guid: 9a65ce20d4f5cdf479eacb886bc04de0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5767382912281351458
+    second: Trash_Can_Romance_0
+  - first:
+      213: 7251793360473088184
+    second: Trash_Can_Romance_1
+  - first:
+      213: -3179050678925956855
+    second: Trash_Can_Romance_2
+  - first:
+      213: 1566840298730995499
+    second: Trash_Can_Romance_3
+  - first:
+      213: -6214840136888226825
+    second: Trash_Can_Romance_4
+  - first:
+      213: 8351588126231850668
+    second: Trash_Can_Romance_5
+  - first:
+      213: 2264571132161819437
+    second: Trash_Can_Romance_6
+  - first:
+      213: 3451211823196952645
+    second: Trash_Can_Romance_7
+  - first:
+      213: -2530550736729200770
+    second: Trash_Can_Romance_8
+  - first:
+      213: -8883981947913103114
+    second: Trash_Can_Romance_9
+  - first:
+      213: 4034666269475962225
+    second: Trash_Can_Romance_10
+  - first:
+      213: 418510543648226470
+    second: Trash_Can_Romance_11
+  - first:
+      213: 4569988972518343899
+    second: Trash_Can_Romance_12
+  - first:
+      213: 769167313879704820
+    second: Trash_Can_Romance_13
+  - first:
+      213: -5209069640359569279
+    second: Trash_Can_Romance_14
+  - first:
+      213: 3612271934312637935
+    second: Trash_Can_Romance_15
+  - first:
+      213: 7033115810417207168
+    second: Trash_Can_Romance_16
+  - first:
+      213: -4068710994083363149
+    second: Trash_Can_Romance_17
+  - first:
+      213: 3814212918722853490
+    second: Trash_Can_Romance_18
+  - first:
+      213: -1893963251890130937
+    second: Trash_Can_Romance_19
+  - first:
+      213: 6789339340182806325
+    second: Trash_Can_Romance_20
+  - first:
+      213: 256654448839826436
+    second: Trash_Can_Romance_21
+  - first:
+      213: -5751770949745844425
+    second: Trash_Can_Romance_22
+  - first:
+      213: -1881848861244326574
+    second: Trash_Can_Romance_23
+  - first:
+      213: -6571138805798233889
+    second: Trash_Can_Romance_24
+  - first:
+      213: -6607569695780829640
+    second: Trash_Can_Romance_25
+  - first:
+      213: -927628920605534346
+    second: Trash_Can_Romance_26
+  - first:
+      213: -2486868002036426042
+    second: Test
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Trash_Can_Romance_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3432
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225103aa33cd90050800000000000000
+      internalID: 5767382912281351458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash_Can_Romance_1
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 2926
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0e883c3ab83a460800000000000000
+      internalID: 7251793360473088184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash_Can_Romance_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2832
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90967a7304eb1e3d0800000000000000
+      internalID: -3179050678925956855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash_Can_Romance_3
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2832
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2fb0a143f88eb510800000000000000
+      internalID: 1566840298730995499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash_Can_Romance_4
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 2788
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fbefe8b2d370c9a0800000000000000
+      internalID: -6214840136888226825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash_Can_Romance_5
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 1657
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae6b66f62dc6e370800000000000000
+      internalID: 8351588126231850668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash_Can_Romance_6
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2832
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d230c1d427f5d6f10800000000000000
+      internalID: 2264571132161819437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash_Can_Romance_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2232
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548584e2eda25ef20800000000000000
+      internalID: 3451211823196952645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash_Can_Romance_8
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2232
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77272b238da1ecd0800000000000000
+      internalID: -2530550736729200770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash_Can_Romance_9
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2232
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f818abdc71c5b480800000000000000
+      internalID: -8883981947913103114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash_Can_Romance_10
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 1815
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d7d5378930ef730800000000000000
+      internalID: 4034666269475962225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash_Can_Romance_11
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2232
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac78e04f19dec500800000000000000
+      internalID: 418510543648226470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash_Can_Romance_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1632
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd48866f1ccdb6f30800000000000000
+      internalID: 4569988972518343899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash_Can_Romance_13
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1632
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f424a4c891acaa00800000000000000
+      internalID: 769167313879704820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash_Can_Romance_14
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1632
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188981cc2caa5b7b0800000000000000
+      internalID: -5209069640359569279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash_Can_Romance_15
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1632
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe561d48f2e512230800000000000000
+      internalID: 3612271934312637935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash_Can_Romance_16
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 1552
+        width: 809
+        height: 648
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087e9180195aa9160800000000000000
+      internalID: 7033115810417207168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash_Can_Romance_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1032
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b64fe768e80987c0800000000000000
+      internalID: -4068710994083363149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash_Can_Romance_18
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1032
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a7e26e07ecee430800000000000000
+      internalID: 3814212918722853490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash_Can_Romance_19
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1032
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700f171057a47b5e0800000000000000
+      internalID: -1893963251890130937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash_Can_Romance_20
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 217
+        width: 1049
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f5e2f8824983e50800000000000000
+      internalID: 6789339340182806325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash_Can_Romance_21
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1000
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c1f158cd1df8300800000000000000
+      internalID: 256654448839826436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash_Can_Romance_22
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 1873
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73fdcfe9bca9d20b0800000000000000
+      internalID: -5751770949745844425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash_Can_Romance_23
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 1620
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25dfe806e6452e5e0800000000000000
+      internalID: -1881848861244326574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash_Can_Romance_24
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1513
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd89c9e4210aec4a0800000000000000
+      internalID: -6571138805798233889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash_Can_Romance_25
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 432
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836095ebe523d44a0800000000000000
+      internalID: -6607569695780829640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash_Can_Romance_26
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 331
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6779de759666023f0800000000000000
+      internalID: -927628920605534346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Test
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 2986
+        width: 449
+        height: 456
+      alignment: 9
+      pivot: {x: 0.50000024, y: 0.51815623}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca55576abedc7dd0800000000000000
+      internalID: -2486868002036426042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
